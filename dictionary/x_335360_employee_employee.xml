@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee" max_length="40" name="x_335360_employee_employee" type="collection">
+        <element label="Employee name" mandatory="true" max_length="50" name="employee_name" type="string"/>
+        <element label="Mobie number" max_length="13" name="mobie_number" type="phone_number_e164"/>
+    </element>
+</database>
